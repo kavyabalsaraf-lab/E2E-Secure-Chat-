@@ -86,4 +86,5 @@ For educational purposes, the application displays cryptographic details in the 
 
 ## Author
 
-Ansh Adkane
+Kavya Balsaraf
+
